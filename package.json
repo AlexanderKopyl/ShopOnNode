@@ -17,9 +17,9 @@
   },
   "homepage": "https://github.com/Mausina/ShopOnNode#readme",
   "dependencies": {
-    "body-parser": "^1.18.3",
+    "body-parser": "^1.20.1",
     "bootstrap": "^4.3.1",
-    "express": "^4.16.4",
+    "express": "^4.18.2",
     "hammerjs": "^2.0.8",
     "jquery": "^3.4.0",
     "mongodb": "^3.2.3",
